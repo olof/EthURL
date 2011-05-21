@@ -1,0 +1,7 @@
+appname: "EthURL"
+charset: "UTF-8"
+
+database: "EthURL"
+dbhost: "localhost"
+dbuser: "ethurl"
+dbpass: "7yYR58H+pFQ3Cg"
